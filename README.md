@@ -16,7 +16,7 @@ Apktool is **NOT** intended for piracy and other non-legal uses. It could be use
 - [Project Page](https://apktool.org)
 - [#apktool on libera.chat](https://web.libera.chat)
 
-#### Security Vulnerabilities
+#### Security Vulnerabilities.
 
 If you discover a security vulnerability within Apktool, please send an e-mail to Connor Tumbleson at connor.tumbleson(at)gmail.com. All security vulnerabilities will be promptly addressed.
 
